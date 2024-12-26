@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AC2C2E6-AF5D-4F97-8C0B-C942AE71E8CD}|Calculater\\Calculater.vcxproj|C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\Calculater\\Calculater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AC2C2E6-AF5D-4F97-8C0B-C942AE71E8CD}|Calculater\\Calculater.vcxproj|solutionrelative:Calculater\\Calculater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1EB70A-EDA1-4726-9E27-3E2FA61AEF1F}|SortingAlgorithm\\SortingAlgorithm.vcxproj|C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\SortingAlgorithm\\SortingAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A1EB70A-EDA1-4726-9E27-3E2FA61AEF1F}|SortingAlgorithm\\SortingAlgorithm.vcxproj|solutionrelative:SortingAlgorithm\\SortingAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortingAlgorithm.cpp",
+              "DocumentMoniker": "C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\SortingAlgorithm\\SortingAlgorithm.cpp",
+              "RelativeDocumentMoniker": "SortingAlgorithm\\SortingAlgorithm.cpp",
+              "ToolTip": "C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\SortingAlgorithm\\SortingAlgorithm.cpp",
+              "RelativeToolTip": "SortingAlgorithm\\SortingAlgorithm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T06:36:52.198Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "CPPStudy\\Animal.cpp",
               "ToolTip": "C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\CPPStudy\\Animal.cpp",
               "RelativeToolTip": "CPPStudy\\Animal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T11:27:23.371Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Calculater\\Calculater.cpp",
               "ToolTip": "C:\\git\\C\u002B\u002B\\CPPStudy\\CPPStudy\\Calculater\\Calculater.cpp",
               "RelativeToolTip": "Calculater\\Calculater.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T11:26:07.527Z",
               "EditorCaption": ""
