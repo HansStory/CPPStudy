@@ -31,7 +31,7 @@ double const Average(int sumValue, int size, bool b_showDecimal = true)
 int main()
 {
 	int size = 5;
-	int* arr = new int[size];
+	int* arr = new int[size] {0};
 
 	// 입력값 세팅
 	SetInputValue(arr, size);
